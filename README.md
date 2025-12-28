@@ -39,5 +39,17 @@ The Smart Bus Management App helps students and college administration manage bu
 
 1. Clone the repository  
    ```bash
+
    git clone https://github.com/anvitaa2211/smart_busapp.git
 
+   Go to the project folder
+
+2. Open the project folder
+    cd smart_busapp
+   
+3. Install dependencies
+   flutter pub get
+
+4. Run the application
+    flutter run
+    
