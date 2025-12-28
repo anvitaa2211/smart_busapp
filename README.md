@@ -29,5 +29,15 @@ The Smart Bus Management App helps students and college administration manage bu
 
 ---
 
-## 📂 Project Structure
+
 # smart_busapp
+
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/anvitaa2211/smart_busapp.git
+
